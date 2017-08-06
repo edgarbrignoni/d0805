@@ -80,13 +80,17 @@ Thumbs.db
 # and the whole "themes" directory
 wp-content/*
 !wp-content/plugins/
-wp-content/plugins/*
 
 !wp-content/themes/
 wp-content/themes/_tk
 
 # ignore these plugins
 wp-content/plugins/hello.php
+wp-content/plugins/akismet
+wp-content/plugins/duplicator
+wp-content/plugins/w3-total-cache
+wp-content/plugins/wordpress-seo
+
 
 # ignore specific themes
 wp-content/themes/twenty*/
