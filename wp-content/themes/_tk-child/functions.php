@@ -34,4 +34,7 @@
      * WRITE YOUR OWN CODE BELOW THIS LINE
      */
      
+     use PostTypes\PostType
+     
+     
 ?>
